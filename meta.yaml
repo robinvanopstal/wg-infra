@@ -1,0 +1,14 @@
+title: Infrastructure
+description: wg-infra Working Group is responsible for AMP's infrastructure, including building, testing and release.
+facilitator:
+  login: rsimha
+  name: Raghu Simha
+members:
+  - login: danielrozenberg
+    name: Daniel Rozenberg
+  - login: erwinmombay
+    name: Erwin Mombay
+  - login: estherkim
+    name: Esther Kim
+  - login: rsimha
+    name: Raghu Simha
