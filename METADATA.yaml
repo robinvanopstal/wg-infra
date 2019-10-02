@@ -10,8 +10,6 @@ members:
     name: Erwin Mombay
   - login: estherkim
     name: Esther Kim
-  - login: rsimha
-    name: Raghu Simha
 communication:
   - channel: slack
     name: Slack
